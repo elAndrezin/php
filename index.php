@@ -1,4 +1,6 @@
 <?php 
-  echo"olá mundo 949";
-  echo"olá udemy";
+
+  echo "olá mundo";
+  echo "ola git";
+
 ?>
